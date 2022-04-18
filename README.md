@@ -13,7 +13,7 @@ pip install slack-cleaner2
  2. Edit your app's scope in **Features**&rarr;**OAuth & Permissions**&rarr;**Scopes**&rarr;**User Token Scopes**.
     Grant permissions as the following image.
 
-    <img src="C:\Users\Jack\AppData\Roaming\Typora\typora-user-images\image-20220418045352729.png" alt="image-20220418045352729" style="zoom:80%;" />
+    ![](images/scopes.png)
 
  3. Click **Install to Workspace**&rarr;**Allow**
 
@@ -29,7 +29,7 @@ pip install slack-cleaner2
 
   Paste your User OAuth Token to line 3 of `backup.py`, and modify **real_name** in line 10, line 15, line 17 to the property you wish to display in the record. You may want to design your own layout.
 
-  <img src="C:\Users\Jack\AppData\Roaming\Typora\typora-user-images\image-20220418204754827.png" alt="image-20220418204754827" style="zoom:70%;" />
+  ![](images/properties.png)
 
   
 
