@@ -1,6 +1,6 @@
 from slack_cleaner2 import SlackCleaner
 from datetime import datetime
-s = SlackCleaner("xoxp-1385021656358-1436915184870-3401221625618-b58415846512bef6898ed89e5dd531e5", sleep_for=1)
+s = SlackCleaner("Your User OAuth Token", sleep_for=1)
 print('start')
 for c in s.ims:
     if not c.user.is_bot:

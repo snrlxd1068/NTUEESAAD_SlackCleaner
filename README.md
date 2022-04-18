@@ -13,7 +13,7 @@ pip install slack-cleaner2
  2. Edit your app's scope in **Features**&rarr;**OAuth & Permissions**&rarr;**Scopes**&rarr;**User Token Scopes**.
     Grant permissions as the following image.
 
-    <img src="https://github.com/snrlxd1068/NTUEESAAD_SlackCleaner/blob/main/images/scopes.png?raw=true" alt="scopes" style="zoom: 80%;" />
+    <img src="images/scopes.png" width="500">
 
  3. Click **Install to Workspace**&rarr;**Allow**
 
@@ -29,7 +29,7 @@ pip install slack-cleaner2
 
   Paste your User OAuth Token to line 3 of `backup.py`, and modify **real_name** in line 10, line 15, line 17 to the property you wish to display in the record. You may want to design your own layout.
 
-  <img src="https://github.com/snrlxd1068/NTUEESAAD_SlackCleaner/blob/main/images/properties.png?raw=true" alt="properties" style="zoom: 80%;" />
+  <img src="images/properties.png" height="500">
 
   
 
