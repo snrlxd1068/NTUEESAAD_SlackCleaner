@@ -29,7 +29,7 @@ pip install slack-cleaner2
 
   Paste your User OAuth Token to line 3 of `backup.py`, and modify **real_name** in line 10, line 15, line 17 to the property you wish to display in the record. You may want to design your own layout.
 
-  <img src="images/properties.png" style="zoom:60%">
+  <img src="images/properties.png" height="500">
 
   
 
