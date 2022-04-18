@@ -13,7 +13,7 @@ pip install slack-cleaner2
  2. Edit your app's scope in **Features**&rarr;**OAuth & Permissions**&rarr;**Scopes**&rarr;**User Token Scopes**.
     Grant permissions as the following image.
 
-    <img src="images/scopes.png" style="zoom:40%">
+    <img src="images/scopes.png" width="500">
 
  3. Click **Install to Workspace**&rarr;**Allow**
 
