@@ -40,7 +40,8 @@ pip install slack-cleaner2
 ​		\*\* You should delete all direct messages by default, but you can uncomment line 5 to keep
 ​		some of your chats for special cases. \*\*
 ​		
-​		Run clean.py. It should take plenty of time to delete all messages.
+
+​		Run `clean.py`. It should take plenty of time to delete all messages.
 
 #### 4. Delete Your Slack App
 
